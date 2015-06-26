@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TricsTest", "Specs\TricsTest.csproj", "{0F9C0091-69EF-4DC8-8CF3-281BBC69491A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicianTools", "Magic_BM\MagicianTools.csproj", "{0F808865-6961-494C-BEE2-6CA1DAB2D202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F9C0091-69EF-4DC8-8CF3-281BBC69491A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9C0091-69EF-4DC8-8CF3-281BBC69491A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9C0091-69EF-4DC8-8CF3-281BBC69491A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9C0091-69EF-4DC8-8CF3-281BBC69491A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F808865-6961-494C-BEE2-6CA1DAB2D202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F808865-6961-494C-BEE2-6CA1DAB2D202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F808865-6961-494C-BEE2-6CA1DAB2D202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F808865-6961-494C-BEE2-6CA1DAB2D202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

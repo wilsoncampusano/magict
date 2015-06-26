@@ -1,0 +1,5 @@
+﻿- magic stick shoul turn magic other things...?
+- magic stick is magical as well...?
+- can get out all magical from the hat.
+- turn down the hat without objects should return empty.... if it's  not magic
+- a magical hat has a limit of magical things you can put in...???
